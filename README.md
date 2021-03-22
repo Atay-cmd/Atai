@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atay-cmd
+- 👋 Hi, I’m @Atai
 - 👀 I’m interested in JavaScript, Python, Front-end development, 
 - 🌱 I’m currently learning React.js and Node.js
 - 💞️ I’m looking to collaborate on ...
